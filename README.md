@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+I am Rahul Chourasiya having 10+ years of experience as a Full Stack Web developer. I am an Experienced Fullstack Developer with a demonstrated history of working in the information technology and services industry. I am skilled in Laravel, Symfony, Yii2, Cake PHP, CodeIgniter React JS, Angular, React Native, NodeJS, MongoDB, Mean Stack, RESTfull APIs, PSD to HTML, User Experience, PHP, and WordPress. Strong engineering professional with a Bachelor of Engineering focused on Database and Programming  / Front End Developer / Mahakal Institute of Technology & Science.
+
+- 🔭 I’m currently learning Python ...
+- 🌱 I’m currently Looking for a full-time freelancer job ...
+- 👯 I’m looking to collaborate on Long term / Stable projects...
+- 💬 Ask me about web development...
+- 📫 reach me at rahulchourasiya0734@gmail.com
+
 <!--
 **247webs/247webs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
